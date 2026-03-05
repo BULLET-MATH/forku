@@ -61,7 +61,6 @@ $\color{#dbe1f3}{\textsf{Code to copy on profile below.}}$
   </details>
       </th>
   </table>
-  <br>
    <table border="0" align="left">
     <tr></tr>
       <th>
@@ -69,8 +68,7 @@ $\color{#dbe1f3}{\textsf{Code to copy on profile below.}}$
         <summary>bhsvajdva</summary>
   </details>
       </th>
-  </table>
-    <br>
+   </table>
    <table border="0" align="left">
     <tr></tr>
       <th>
